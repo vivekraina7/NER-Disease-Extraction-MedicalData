@@ -29,8 +29,8 @@
 ## BERT CNN
 
 ##_ARTICLES TO LEARN MORE ABOUT TRANSFORMERS AND BERT_
-_1. https://jalammar.github.io/illustrated-transformer/
-_2. https://jalammar.github.io/illustrated-bert/
+_1. https://jalammar.github.io/illustrated-transformer/ _
+_2. https://jalammar.github.io/illustrated-bert/ _
 _3. http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/ _
 
 1.. As a Data Scientist in a Medical Research publication company, the task was to identify which diseases are being discussed in hundreds of articles published every day.
