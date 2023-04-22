@@ -13,6 +13,20 @@
 
 • **Impact**: The project's success could lead to significant time savings in the medical research publication industry by automating the process of identifying diseases mentioned in articles, thus improving overall productivity and efficiency.
 
+![image](https://user-images.githubusercontent.com/87175291/233787666-bbe27d32-3801-42f2-96ac-da0786b4aea4.png)
+## Transformer
+![image](https://user-images.githubusercontent.com/87175291/233787676-cb266572-2c8e-40fd-ac88-756fe2af2782.png)
+## Encoder Architecture
+![image](https://user-images.githubusercontent.com/87175291/233787944-27078120-1587-4950-8931-abb5134c74ac.png)
+# BERT ARCHITECTURE
+![image](https://user-images.githubusercontent.com/87175291/233787809-b8ddbeb8-f884-4f90-a715-51701c00bb7a.png)
+## Working 1
+![image](https://user-images.githubusercontent.com/87175291/233787836-ba89c5f0-1fcc-4d48-8234-5d4ee647e336.png)
+## Working 2
+![image](https://user-images.githubusercontent.com/87175291/233787986-33c236cf-2601-400e-9809-a41880ec6e28.png)
+## BERT NLP
+![image](https://jalammar.github.io/images/vgg-net-classifier.png)
+## BERT CNN
 1. As a Data Scientist in a Medical Research publication company, the task was to identify which diseases are being discussed in hundreds of articles published every day.
 2. Manually reading and identifying diseases in articles is a laborious process, so the goal was to train a machine learning model to automate this task with limited training data.
 3. BERT from Hugging Face was used to create a model for automatic disease identification in the corpus.
