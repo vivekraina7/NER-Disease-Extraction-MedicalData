@@ -27,7 +27,13 @@
 ## BERT NLP
 ![image](https://jalammar.github.io/images/vgg-net-classifier.png)
 ## BERT CNN
-1. As a Data Scientist in a Medical Research publication company, the task was to identify which diseases are being discussed in hundreds of articles published every day.
+
+##_ARTICLES TO LEARN MORE ABOUT TRANSFORMERS AND BERT_
+_1. https://jalammar.github.io/illustrated-transformer/
+_2. https://jalammar.github.io/illustrated-bert/
+_3. http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/ _
+
+1.. As a Data Scientist in a Medical Research publication company, the task was to identify which diseases are being discussed in hundreds of articles published every day.
 2. Manually reading and identifying diseases in articles is a laborious process, so the goal was to train a machine learning model to automate this task with limited training data.
 3. BERT from Hugging Face was used to create a model for automatic disease identification in the corpus.
 4. Hyperparameter tuning was performed to optimize the model's performance.
