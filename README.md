@@ -1,7 +1,7 @@
 # NER-Disease-Extraction-MedicalData
 ## DL: Automatic Disease Identification in Medical Research Publications using _BERT_
 
-• *Business Case*: As a data scientist at a medical research publication company, you were tasked to identify diseases mentioned in hundreds of articles published daily without manually reading each article.
+• **Business Case**: As a data scientist at a medical research publication company, you were tasked to identify diseases mentioned in hundreds of articles published daily without manually reading each article.
 
 • **Problem Statement**: The laborious task of manually reading articles to identify diseases can be simplified using a machine learning model. However, the challenge is to build a model with limited training data.
 
